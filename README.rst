@@ -1,5 +1,5 @@
 🐼 iix
 ======
 
-a tgui gemini client written in python.
+a gemini client written in python.
 
