@@ -1,9 +1,8 @@
-🎀 viv
+🐼 iix
 ======
 
-a toy gemini client written in ansi c (c99).
+a tgui gemini client written in python.
 
-nowhere near finished, but it works! (*mostly*).
 
 limitations
 -----------
