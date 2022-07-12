@@ -1,5 +1,5 @@
 🐼 iix
 ======
 
-a gemini client written in python.
+a simple lighweight gemini client written in python.
 
